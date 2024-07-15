@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Cloud Services, Linux Distribution, Networking , Java Programming and Scripting**
 
-- 📫 How to reach me **rthakre992@gmail.com**
+- 📫 Reach me **rthakre992@gmail.com**
 
 - 📄 Know about my experiences Successfully completed rigorous training and earned certification in Microsoft Azure Cloud gaining practical insights into cloud infrastructure, deployment, and management. Applied theoretical knowledge to real-world scenarios, highlighting proficiency in Azure services. Collaborated on cloud infrastructure and deployment project.
 
