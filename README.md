@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajendra Thakare</h1>
-<h3 align="center">A Linux -- Azure-cloud -- AzureDevOpsServer </h3>
+<h3 align="center"> Linux System Administrator -- Azure-cloud -- AzureDevOpsServer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendrathakhre&label=Profile%20views&color=0e75b6&style=flat" alt="rajendrathakhre" /> </p>
 
