@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajendra Thakare</h1>
-<h3 align="center"> Linux System Administrator -- Azure-cloud -- AzureDevOpsServer </h3>
+<h3 align="center"> Linux System -- Cloud -- Devops </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendrathakhre&label=Profile%20views&color=0e75b6&style=flat" alt="rajendrathakhre" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cloud, DevOps and IT relevant Coursework**
 
-- 💬 Ask me about **Cloud Services, Linux Distribution, Networking , Java Programming and Scripting**
+- 💬 Ask me about **Cloud Services, Linux Distribution, Networking , Auyomation & Scripting**
 
 - 📫 Reach me **rthakre992@gmail.com**
 
