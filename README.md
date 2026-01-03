@@ -17,11 +17,17 @@
 - 🌱 Actively learning **DevOps tools, Cloud automation, and CI/CD practices**
 - 💬 Ask me about **Linux, Azure, Networking, Monitoring, Automation & Scripting**
 - 📫 Reach me at **rthakre992@gmail.com**
-- 📄 **Experience Summary:**  
-  Completed hands-on Azure Cloud training with real-world projects involving VM deployment, networking, storage, security, and monitoring.  
-  Practical experience with Linux system administration, process monitoring, troubleshooting, and automation fundamentals.
+-   
+ ### 💼 Experience Summary
 
----
+Linux System Engineer with hands-on experience in system monitoring, troubleshooting, and cloud infrastructure support. Currently working in a Linux environment where I actively monitor system performance using tools such as **htop, top, ps, df, free**, and **journalctl** to identify and resolve high CPU, memory, and process-related issues.
+
+Practical experience in **Azure Cloud (IaaS & PaaS)** through real-world lab projects, including virtual machine deployment, storage management, virtual networking, identity & access management, and basic security configurations. Familiar with Azure services such as **Virtual Machines, VNets, NSG, Storage Accounts, Azure Monitor, and Azure AD**.
+
+Exposure to **DevOps fundamentals**, including **Git version control, Docker containerization, basic Kubernetes concepts, and CI/CD pipeline awareness**. Comfortable working with Linux shell scripting for automation and routine administrative tasks.
+
+Strong understanding of **networking fundamentals** (TCP/IP, DNS, DHCP, routing, and subnetting) backed by CCNA training. 
+Passionate about continuous learning and building scalable, reliable infrastructure in cloud and DevOps environments. 
 
 ### 🤝 Connect with Me
 
