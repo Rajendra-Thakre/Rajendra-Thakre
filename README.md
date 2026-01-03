@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Rajendra Thakare</h1>
 <h3 align="center">Linux Engineer | Cloud | DevOps</h3>
 
@@ -14,20 +15,31 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **Azure Cloud Infrastructure (IaaS & PaaS)** including deployment, monitoring, and management  
-- 🌱 Actively learning **DevOps tools, Cloud automation, and CI/CD practices**
-- 💬 Ask me about **Linux, Azure, Networking, Monitoring, Automation & Scripting**
-- 📫 Reach me at **rthakre992@gmail.com**
+- 🌱 Actively learning **DevOps tools, cloud automation, CI/CD, and container orchestration**  
+- 💬 Ask me about **Linux, Azure, Networking, Monitoring, Automation & Scripting**  
+- 📫 Reach me at **rthakre992@gmail.com**  
 
- ### 💼 Experience Summary
+---
 
-Linux System Engineer with hands-on experience in system monitoring, troubleshooting, and cloud infrastructure support. Currently working in a Linux environment where I actively monitor system performance using tools such as **htop, top, ps, df, free**, and **journalctl** to identify and resolve high CPU, memory, and process-related issues.
+### 💼 Experience Summary
 
-Practical experience in **Azure Cloud (IaaS & PaaS)** through real-world lab projects, including virtual machine deployment, storage management, virtual networking, identity & access management, and basic security configurations. Familiar with Azure services such as **Virtual Machines, VNets, NSG, Storage Accounts, Azure Monitor, and Azure AD**.
+Linux System Engineer with hands-on experience in **system monitoring, troubleshooting, and cloud infrastructure support**. Key responsibilities and expertise:
 
-Exposure to **DevOps fundamentals**, including **Git version control, Docker containerization, basic Kubernetes concepts, and CI/CD pipeline awareness**. Comfortable working with Linux shell scripting for automation and routine administrative tasks.
+- **Linux Administration**: Monitoring and optimizing system performance using `htop`, `top`, `ps`, `df`, `free`, and `journalctl`. Troubleshooting CPU, memory, and process-related issues effectively.  
+- **Cloud Infrastructure (Azure)**: Deploying and managing Virtual Machines, VNets, Storage Accounts, NSGs, Azure Monitor, and Azure AD. Understanding IaaS and PaaS service management.  
+- **DevOps Fundamentals**: Git version control, Docker containerization, basic Kubernetes concepts, CI/CD pipeline awareness, and automation using Bash & Python scripts.  
+- **Networking & Security**: TCP/IP, DNS, DHCP, routing, subnetting, firewall configurations; CCNA foundation-level understanding for enterprise networking.  
+- Passionate about **building scalable, reliable, and secure cloud environments** while continuously learning emerging technologies.  
 
-Strong understanding of **networking fundamentals** (TCP/IP, DNS, DHCP, routing, and subnetting) backed by CCNA training. 
-Passionate about continuous learning and building scalable, reliable infrastructure in cloud and DevOps environments. 
+---
+
+### 🏆 Certifications & Training
+
+- **Red Hat Certified System Administrator (RHEL 9)** – Training Certificate  
+- **Cisco Certified Network Associate (CCNA)** – Training Certificate  
+- **Microsoft Certified Azure Administrator Associate (AZ-104)** – Training Certificate  
+
+---
 
 ### 🤝 Connect with Me
 
@@ -47,6 +59,7 @@ Passionate about continuous learning and building scalable, reliable infrastruct
 </p>
 
 ---
+
 ### 🛠️ Skills & Technologies
 
 #### 🐧 Operating Systems
@@ -68,6 +81,14 @@ Passionate about continuous learning and building scalable, reliable infrastruct
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="45"/>
 </p>
 
+#### ☁️ Cloud & Monitoring Tools
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="45"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/435/435038.png" width="45" title="htop"/>
+</p>
+
 #### 🌐 Web Servers
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45"/>
@@ -80,6 +101,12 @@ Passionate about continuous learning and building scalable, reliable infrastruct
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+</p>
+
+#### 🌐 Networking & Security
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="45" title="Networking"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Cisco_CCNA_logo.png" width="45" title="CCNA"/>
 </p>
 
 ---
