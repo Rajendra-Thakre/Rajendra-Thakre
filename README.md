@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajendra Thakare</h1>
-<h3 align="center">Linux System Engineer | Cloud | DevOps</h3>
+<h3 align="center">Linux Engineer | Cloud | DevOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajendrathakhre&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -17,7 +17,7 @@
 - 🌱 Actively learning **DevOps tools, Cloud automation, and CI/CD practices**
 - 💬 Ask me about **Linux, Azure, Networking, Monitoring, Automation & Scripting**
 - 📫 Reach me at **rthakre992@gmail.com**
--   
+
  ### 💼 Experience Summary
 
 Linux System Engineer with hands-on experience in system monitoring, troubleshooting, and cloud infrastructure support. Currently working in a Linux environment where I actively monitor system performance using tools such as **htop, top, ps, df, free**, and **journalctl** to identify and resolve high CPU, memory, and process-related issues.
